@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties answer to the Parliaments replication and his resolution concerning their refusall to deliver up Hvll also the Parliaments declaration, ordered to be printed and published for the satisfaction to the whole kingdome : together with the determination of the Houses of Yarliament [sic], for the security of the Ile of Wight and their order concerning the Earl of Portland governour of the said iland [sic] and their election of the Earl of Pembroke governour of the said iland.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18931</idno><idno type="EEBO-CITATION">12253044</idno>
+  <idno type="VID">197440</idno>
+  <idno type="EEBO-PROQUEST">2240941048</idno>
+  
+            <idno type="STC">Wing C2127</idno>
+            <idno type="OCLC">12253044</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties answer to the Parliaments replication and his resolution concerning their refusall to deliver up Hvll also the Parliaments declaration, ordered to be printed and published for the satisfaction to the whole kingdome : together with the determination of the Houses of Yarliament [sic], for the security of the Ile of Wight and their order concerning the Earl of Portland governour of the said iland [sic] and their election of the Earl of Pembroke governour of the said iland.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Blunon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 9, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197440:1"/>
+            <p>THE KINGS MAIESTIES <hi>ANSWER</hi> To the <hi>Parlinments</hi> Replication, and his Re<g ref="char:EOLhyphen"/>solution concerning their Refusall to deliver up <hi>HƲLL,</hi>
+            </p>
+            <p>Also the Parliaments <hi>Declaration,</hi> Ordered to be Printed and Published for the satisfaction to the whole Kingdome.</p>
+            <p>Together with the Determination of the Houses of <hi>Yarliament,</hi> for the security of the Ile of <hi>Wight,</hi> and their <hi>Order</hi> concerning the Earl of <hi>Portland</hi> Governour of the said <hi>Iland,</hi> and their Ele<g ref="char:EOLhyphen"/>ction of the Earl of <hi>Pembroke</hi> Gover<g ref="char:EOLhyphen"/>nour of the said Iland.</p>
+            <p>IOHN BROWN Cler. Parliament.</p>
+            <p>LONDON: Printed for <hi>H. Blunon. August</hi> 9. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197440:2"/>
+            <pb facs="tcp:197440:2"/>
+            <head>HIS <hi>MAJESTIES ANSWER</hi> TO THE Replication of both houses of PARLIAMENT.</head>
+            <p>THere is as yet but small hopes of peace to bee hoped or expected, for the accommodation betweene the King and his <hi>Parliament</hi> is still op<g ref="char:EOLhyphen"/>posed by new <hi>Remoraes,</hi> which do stay the Acceleration of the Union between the King and Parliament.</p>
+            <p>After the house had received his Maje<g ref="char:EOLhyphen"/>sties answer to their Petition, and had considered of his Demands, they did Re<g ref="char:EOLhyphen"/>ply unto his answer with very demon<g ref="char:EOLhyphen"/>strave
+<pb facs="tcp:197440:3"/>Reasons, why they did not assent unto his Majesties Desires.</p>
+            <p>
+               <hi>Which Replication was sent unto his Ma<g ref="char:EOLhyphen"/>iesty, but took as little effect with his Maie<g ref="char:EOLhyphen"/>sty, as their former Petition.</hi>
+            </p>
+            <p>
+               <hi>For when Mr.</hi> Rushworth <hi>returned who was sent to his Maiesty with the Reasons why the House of Parliament could not, nor did not yeelds to his Demands, proposed for the Delivering up of</hi> Hull.</p>
+            <p>
+               <hi>He made Relation that his Maiesty did persist therin, and would give eare nor con<g ref="char:EOLhyphen"/>sent to any thing, unlesse they would consent to that his first Proposition, and that he might have the possession of</hi> Hull.</p>
+            <p>Also he made Relation of the prepa<g ref="char:EOLhyphen"/>ration there which was made to raise warre.</p>
+            <p>That the whole County of <hi>Yorke</hi> was warned, and Summons given to bring in their full strength of horse and foot by <hi>Thursday</hi> next following to the City of <hi>Yorke.</hi>
+            </p>
+            <p>At which time and place his Majesties pleasure should be made known unto
+<pb facs="tcp:197440:3"/>them, concerning the same. It was further then related to the House, that Sir <hi>John Hotham</hi> bad sent forth some men to a Town within two miles of him called <hi>Anolby,</hi> where some of the Cavaleers were quartered.</p>
+            <p>Where they took away their <hi>Maga<g ref="char:EOLhyphen"/>zine,</hi> some prisoners, two only being kil<g ref="char:EOLhyphen"/>led, who would not yeeld their arms.</p>
+            <p>At the meeting of the Lords a Mes<g ref="char:EOLhyphen"/>sage for a Conference being sent, the full summe and scope of Mr. <hi>Rushworths</hi> ser<g ref="char:EOLhyphen"/>vice was related, and took into conside<g ref="char:EOLhyphen"/>ration.</p>
+            <p>And upon consultation it was agreed upon, that a Declaration should be forth<g ref="char:EOLhyphen"/>with drawn up and published, to satisfie the Kingdom of the Reasons why they did raise Arms, it being for the Defence of the King and Kingdome, and the up<g ref="char:EOLhyphen"/>holding of the priviledges of <hi>Pariiament</hi> and Liberty of the Subject, in maintai<g ref="char:EOLhyphen"/>nance wherof they would live and dye.</p>
+            <pb facs="tcp:197440:4"/>
+            <p>The manifold oppositions, plots, and conspiracies, continued and compelled by the malignant party, against the peace and happinesse of this Kingdom, &amp; more directly and perfidiously against the pious and zealous endeavors of the house of Par<g ref="char:EOLhyphen"/>liament, which they only undertake for the Establishment of the Gospel, the Ho<g ref="char:EOLhyphen"/>nour of his Majesty, the priviledges of Parliament, and the liberty of the subject, are exceeding wonderful.</p>
+            <p>When there was a Report made to the house of the perfidious and trecherous in<g ref="char:EOLhyphen"/>tention of Colonel <hi>Goring,</hi> how that he was fully resolved and determined to de<g ref="char:EOLhyphen"/>liver up <hi>Portsmouth</hi> unto the Kings party, and how that he had got a great summe of money from the County to pay his men.</p>
+            <p>Upon this Report the house of Com<g ref="char:EOLhyphen"/>mons took into consideration the urgent and present Necessity of the Ile of <hi>Wight,</hi> which lyeth in great hazzard, by reason that the Earl of <hi>Portland</hi> Governour ther<g ref="char:EOLhyphen"/>of, was conceived to be popishly affected,
+<pb facs="tcp:197440:4"/>his Mother and the greatest part of his kindred being known Papists.</p>
+            <p>Upon this consideration they sent a message to the Lords to desire a Confe<g ref="char:EOLhyphen"/>rence, where it was moved that the Castle of that Iland might be put in the Trust and charge of such hands, as the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> might conside in, and untill that be secured in such a trust, that the Earl of <hi>Portland</hi> might be put in safe custody.</p>
+            <p>This motion and proposition being made, and the Lords having some time considered of it, they made choice of the Earl of <hi>Pembroke,</hi> to take the charge ther<g ref="char:EOLhyphen"/>of.</p>
+            <p>And it was further at that time a<g ref="char:EOLhyphen"/>greed, and by generall consent confirmed that untill the Earl of <hi>Pembroke</hi> had qui<g ref="char:EOLhyphen"/>et and sure possession of the said Fort and Iland, that the Earl of <hi>Portland</hi> should be committed to Sheriffe <hi>Garret</hi> to be kept in safe custody.</p>
+            <p>Letters was lately received and read in the house, which came from <hi>Somerset<g ref="char:EOLhyphen"/>shire,</hi> intimating and informing, that there
+<pb facs="tcp:197440:5"/>was some combustion in those perts be<g ref="char:EOLhyphen"/>tween the Marquis of <hi>Hertford,</hi> who did much strive for the <hi>Commission of Array</hi> and others who stood for the <hi>Otdinance of Parliament,</hi> opposing the said Commis<g ref="char:EOLhyphen"/>sion as illegall, and against Law, which was imparted to the Lotds by a Mes<g ref="char:EOLhyphen"/>sage, which prayed their assistance, that some mature and timely Remedy might be thought on, for preventing of future Evills, and for setting of the Kingdom in its pristine happinesse.</p>
+            <closer>
+               <signed>Hen. Elsing Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
